@@ -5,6 +5,7 @@ write instead of HTML. Lede compiles to one self-contained page with charts, dia
 themes and a phone layout, and no JavaScript.
 
 - Site: [ledelang.dev](https://ledelang.dev)
-- Code, specification and skill: [github.com/lede-lang](https://github.com/lede-lang)
+- Code, specification and skill: [github.com/lede-lang/lede](https://github.com/lede-lang/lede)
+- Add the skill to your agent: `npx skills add lede-lang/lede`
 
-Nothing is developed here; please open issues and pull requests in the `lede-lang` repositories.
+Nothing is developed here; please open issues and pull requests in the [`lede-lang`](https://github.com/lede-lang) repositories.
